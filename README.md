@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Jamil 👋</h1>
 
-<h3 align="center">Data Analyst · Growing into Data Science & Data Engineering</h3>
+<h3 align="center">AI/ML Engineer · Data Scientist · Full-Stack Developer</h3>
 
 <p align="center">
-  I turn raw data into clear insights, reliable pipelines, and dashboards people actually use.
+  I build end-to-end machine learning models, structured data science pipelines, and robust full-stack applications.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Excel%20%7C%20Power%20BI-217346?style=for-the-badge" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20ML-Python%20%7C%20Scikit--Learn%20%7C%20TensorFlow-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science and ML" />
+  <img src="https://img.shields.io/badge/Full--Stack-FastAPI%20%7C%20React-009688?style=for-the-badge" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Git-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-success?style=for-the-badge" alt="Open to freelance" />
 </p>
 
@@ -17,35 +17,42 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **data analyst** with a strong foundation in Excel, Power BI, and Python, and a background in **web development** (React, Tailwind CSS). That mix lets me do more than analyze numbers: I can clean and move data, model it, and present it in a way that's clear and visually polished.
+I'm an **AI/ML Engineer** and **Data Scientist** with a strong Computer Science background and hands-on experience in building predictive models, automated data workflows, and data-driven web applications. 
 
-I'm currently working toward **data science** and **data science engineering**, building skills in machine learning, data pipelines, and scalable data workflows.
+My work spans the full data lifecycle: from exploratory data analysis and statistical preprocessing to training machine learning models and deploying them into production environments.
 
-- 📊 Building dashboards and reports that support real decisions
-- 🔄 Designing ETL workflows and data infrastructure with Python and SQL
-- 🌱 Learning: machine learning, data engineering, and pipeline orchestration
-- 💼 Open to **freelance** projects in analytics, dashboards, and data automation
+- 📊 Performing exploratory data analysis, data cleaning, and statistical modeling using Python, Pandas, and NumPy
+- 🤖 Training and evaluating predictive models and neural networks using Scikit-Learn and TensorFlow
+- 📈 Crafting data visualizations and automated reporting pipelines with Matplotlib, Seaborn, and Pandas
+- 🌐 Integrating data solutions into full-stack apps (FastAPI, React) and managing workflows via Jupyter, Anaconda, and PostgreSQL
+- 💼 Available for **freelance** projects in data science, analytics, and software automation
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data & Analytics**
+**Data Science & Machine Learning**
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+**Databases & Analytics**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-**Web Development**
+**Full-Stack & Tools**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools**
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -55,29 +62,30 @@ I'm currently working toward **data science** and **data science engineering**, 
 
 | Service | Details |
 |---|---|
-| **Dashboards & Reporting** | Interactive Power BI and Excel dashboards tailored to your KPIs |
-| **Data Cleaning & Automation** | Python scripts that replace repetitive manual data work |
-| **ETL & Data Pipelines** | Extracting, transforming, and loading data into PostgreSQL and other databases |
-| **Data Analysis** | Exploratory analysis and clear, actionable insights |
-| **Web-Based Data Interfaces** | React + Tailwind front ends for presenting data |
+| **Machine Learning & Predictive Modeling** | Supervised/unsupervised models, classification, regression, and deep learning using Scikit-Learn and TensorFlow |
+| **Data Analysis & Statistical Visualizations** | Exploratory data analysis, missing value imputation, and custom plots via Pandas, NumPy, Seaborn, and Matplotlib |
+| **Data Pipelines & Database Workflows** | Data cleaning scripts, ETL workflows, and querying/managing relational data with PostgreSQL |
+| **Interactive Data Apps & APIs** | Deploying models and analytical insights through FastAPI backends and React front ends |
+| **Automated Reporting** | Python-based scripts that process raw datasets, generate visual summaries, and automate deliverables |
 
 ---
 
 ## 📌 Featured Projects
 
-<!-- Replace these with your own pinned projects. Keep 3–4 of your best. -->
+<!-- Update the repository links below with your exact GitHub repo slugs -->
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Project Name**](https://github.com/jamilmrt/repo-name) | One sentence on the problem it solves and the result. | Python, Power BI |
-| [**Project Name**](https://github.com/jamilmrt/repo-name) | One sentence on the problem it solves and the result. | SQL, PostgreSQL |
-| [**Project Name**](https://github.com/jamilmrt/repo-name) | One sentence on the problem it solves and the result. | React, Tailwind CSS |
+| [**Customer Churn & CLTV Prediction System**](https://github.com/jamilmrt) | End-to-end machine learning pipeline predicting customer lifetime value and churn risk, served via a FastAPI and React app. | Python, Scikit-Learn, FastAPI, React |
+| [**Student Academic Performance Predictor**](https://github.com/jamilmrt) | Academic ML repository evaluating feature preprocessing and imputation methods to forecast student success indicators. | Python, Pandas, Jupyter, Scikit-Learn |
+| [**Automated Data Cleaning & PDF Pipeline**](https://github.com/jamilmrt) | Automated workflow processing raw CSVs, running statistical checks, plotting metrics, and compiling PDF summaries. | Python, Pandas, Matplotlib |
+| [**Physical GPS Bearing Tracker**](https://github.com/jamilmrt) | Hardware-software prototype tracking coordinates and indicating destination bearings physically. | Arduino, C++, Python |
 
 ---
 
 ## 🎯 Beyond Work
 
-I also enjoy exploring **game development with Pygame**, **cybersecurity**, and **OSINT**, which keep my problem-solving skills sharp and my curiosity active.
+Outside of machine learning and software engineering, I enjoy building **automation scripts**, tinkering with **Arduino electronics**, and exploring **classical Urdu and Bengali poetry**.
 
 ---
 
@@ -93,8 +101,9 @@ I also enjoy exploring **game development with Pygame**, **cybersecurity**, and 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jamil-aktar-8a9566179/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jamilaktaraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 </p>
 
-<p align="center"><i>Open to collaborations, freelance work, and conversations about data.</i></p>
+<p align="center"><i>Open to freelance projects, data science collaborations, and discussions on machine learning.</i></p>
